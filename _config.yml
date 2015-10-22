@@ -1,0 +1,23 @@
+name: Shawn Van Daele
+favicon: null
+layout_spectrum: 0.8284373262431473
+typography_spectrum: 0.19059723569080234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6014765533618629
+  lightness: 0.30147345224395394
+  saturation: 0.4314602459780872
+  rhythmicContrast: 0.5088078749831766
+purpose: []
